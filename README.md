@@ -6,7 +6,7 @@ Le dataset utilisé est disponible en ligne en cliquant [ici]
 (https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/code)
 C'est un dataset de review produits d'amazon en anglais.
 # Utiliser le modèle 
-Pour utiliser le modèle, faites la commande suivante : 
+Pour utiliser le modèle, faites la commande suivante dans votre terminal : 
 ```
 git clone (https://github.com/JacobTADEI/sentiment_analysis1)
 ```
