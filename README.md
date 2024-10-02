@@ -8,7 +8,7 @@ C'est un dataset de review produits d'amazon en anglais.
 # Utiliser le modèle 
 Pour utiliser le modèle, faites la commande suivante dans votre terminal : 
 ```
-git clone https://github.com/JacobTADEI/sentiment_analysis1
+git clone https://github.com/Styyz1/sentiment_analysis1
 ```
 Puis ensuite cette commande 
 ```
