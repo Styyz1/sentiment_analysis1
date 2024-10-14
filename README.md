@@ -1,5 +1,5 @@
 # README
-## Ce projet à pour d'utiliser un modèle de sentiment analysis sur des avis client de produits Amazon, en anglais.
+## Ce projet à pour but d'utiliser un modèle de sentiment analysis sur des avis client de produits Amazon, en anglais.
 Ce modèle a été entraîné avec le framework [scikitlearn](https://scikit-learn.org/stable/) et son modèle __LogisticRegression__
 # Dataset
 Le dataset utilisé est disponible en ligne en cliquant [ici]
